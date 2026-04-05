@@ -277,3 +277,4 @@ This repository showcases my internship experience and the analytical skills dev
 
 # Dashboard 
 <img width="982" height="555" alt="1001147930" src="https://github.com/user-attachments/assets/f1b1767b-5855-4393-a003-849971fcfbc2" />
+link: https://drive.google.com/file/d/1k_tCe6l6Sl65PWDR6DrNJGx_ZBUvs03-/view?usp=drivesdk
